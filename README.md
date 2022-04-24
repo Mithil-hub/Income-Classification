@@ -1,4 +1,5 @@
 # Adult-Income-Classification
+
 Using various machine learning algorithms in Scikit-Learn I will build models to predict a binary variable of whether a given individual in the data earns more, or less than $50,000. 
 
 I'll employ a number of different techniques to evaluate the efficiency of the models.
